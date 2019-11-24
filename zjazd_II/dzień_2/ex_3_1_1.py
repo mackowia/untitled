@@ -1,10 +1,10 @@
 #bez zagniezdzenia
 
-def policz_znaki ():
+def policz_znaki():
     licznik = 0
     ...
 def test_pojedyncze_znaki_domyslne():
-    assert policz_znaki ('ala ma <kota> a kot ma ale') == 4
+    assert policz_znaki('ala ma <kota> a kot ma ale') == 4
 
 # def test_pojedyncze_znaki_domyslne():
 #     assert policz_znaki ('ala [kota [a kot]] ma [ale]', '[', ']') == 18
