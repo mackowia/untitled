@@ -1,6 +1,8 @@
 #bez zagniezdzenia
+
 def policz_znaki ():
-    return znaki
+    licznik = 0
+    ...
 def test_pojedyncze_znaki_domyslne():
     assert policz_znaki ('ala ma <kota> a kot ma ale') == 4
 
