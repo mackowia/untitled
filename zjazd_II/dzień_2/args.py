@@ -1,5 +1,4 @@
 #*argumenty to *args (ang.arguments)- łapie pozycyjne
-# **kwargs (od ang."keywordarguments")- łapie kluczowe
 
 def funkcja(*argumenty):
     print(argumenty)
