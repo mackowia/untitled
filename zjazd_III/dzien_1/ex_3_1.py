@@ -40,15 +40,3 @@ def test_electric_car_charge():
     e.drive(100)
     e.charge()
     assert e.drive(120) == 100
-
-
-
-
-
-#maks_range -> maksymalnie 100
-#car_drive
-#car_charge
-
-
-        #dystans- pokonany juz dystans
-        #dystans nie może przekroczyć maks_range
