@@ -7,12 +7,13 @@ https://python-reference.readthedocs.io/en/latest/index.html#
 
 #programowanie obiektowe:
 https://www.kodolamacz.pl/blog/wyzwanie-python-4-programowanie-obiektowe/
-https://brain.fuw.edu.pl/edu/index.php/TI/Wst%C4%99p_do_programowania_obiektowego
+https://brain.fuw.edu.pl/edu/index.php/TI/Wst%C4%99p_do_programowania_obiektowego #(w tym dziedziczenie, funkcja super())
 https://www.ii.uni.wroc.pl/~marcinm/dyd/python/obiekty.pdf
 http://detox.wi.ps.pl/pb/sp/po/W1.pdf
 http://users.uj.edu.pl/~ufkapano/algorytmy/lekcja07/new-style.html # metody statyczne
 https://xion.org.pl/2011/10/03/trzy-rodzaje-metod-w-pythonie/ # metody statystyczne
 https://bioexploratorium.pl/mediawiki/images/9/95/PO_2013z_w06.pdf ///////// # metody statystyczne
+https://docs.python.org/3/reference/datamodel.html #emulating number types
 
 #jednolinijkowce:
 https://ddeby.pl/blog/jednolinijkowce-python-nie-dajmy-sie-zwariowac
