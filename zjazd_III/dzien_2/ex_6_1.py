@@ -16,8 +16,10 @@ class Vector:
             return Vector(self.x * other, self.y * other)
 
     def __eq__(self, other):
+        #porównanie po x i y
         return (self.x == other.x) and (self.y == other.y)
-
+        #porówanie po długości
+        # return(self.x ** 2 + self.y ** 2) == (other.x ** 2 + other.y ** 2)
 
 def test_vector_init():
     v1 = Vector(1,2)
