@@ -12,4 +12,14 @@ https://www.math.uni.lodz.pl//~rodakt/dane/analiza_danych/16.17/wyklad_8_tydzien
 https://leanpub.com/pyprog/read #ogolnie Python, w tym generatory
 http://users.uj.edu.pl/~ufkapano/algorytmy/lekcja04/generatory.html #generatory- cwiczenia
 
+https://docs.python.org/3/library/functions.html#open # dokumentacja, skróty lister do zapisu
+http://davinci.mimuw.edu.pl/samouczek-python-python/operacje-na-plikach #operacja na plikach (otwieranie, czytanie, itd)
+https://docs.python.org/3/library/collections.html#collections.Counter #defaultdict, deque, counter
+https://docs.python.org/3/library/itertools.html #tertools (count,cycle,repeat,chain...)
+https://docs.python.org/3/library/datetime.html # datetime
+https://docs.python.org/3/library/json.html #json
+https://docs.python.org/3/library/pathlib.html #pathlib
+https://docs.python.org/3/library/urllib.request.html#module-urllib.request #HTTP
+https://docs.python.org/2/library/tkinter.html #tkinter (okienka)
+
 #lambda 
