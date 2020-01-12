@@ -21,5 +21,8 @@ https://docs.python.org/3/library/json.html #json
 https://docs.python.org/3/library/pathlib.html #pathlib
 https://docs.python.org/3/library/urllib.request.html#module-urllib.request #HTTP
 https://docs.python.org/2/library/tkinter.html #tkinter (okienka)
+https://pypi.org/ #pypi
+https://pl.python.org/forum/index.php?topic=3835.0;wap2 #forum PyPi
+https://python101.readthedocs.io/pl/latest/env/tools.html #pip -> PyPi
 
 #lambda 

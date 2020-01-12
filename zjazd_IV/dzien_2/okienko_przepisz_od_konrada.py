@@ -10,7 +10,7 @@ def zrob_cos():
         label.configure(text="Ho!")
     elif label ['text'] == "Ho!":
         label.configure(text="Hi!")
-    tk.Button(root, text="Zmyłka!")
+    tk.Button(root, text=entry.get())
     p.pack()
 
 root = tk.Tk()
